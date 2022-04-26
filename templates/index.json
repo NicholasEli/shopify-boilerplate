@@ -1,11 +1,11 @@
 {
   "sections": {
-  	"main": {
-  		"type": "main",
-  		"blocks": {}
-  	}
+    "main": {
+      "type": "main",
+      "settings": {}
+    }
   },
   "order": [
-  	"main"
+    "main"
   ]
 }

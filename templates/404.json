@@ -1,11 +1,11 @@
 {
   "sections": {
-  	"main": {
-  		"type": "main",
+  	"404": {
+  		"type": "404",
   		"blocks": {}
   	}
   },
   "order": [
-  	"main"
+  	"404"
   ]
 }
