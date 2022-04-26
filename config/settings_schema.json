@@ -1,10 +1,10 @@
 [
   {
-    "name": "shopify_boilerplate",
-    "theme_name": "Shopify Boilerplate",
+    "name": "theme_info",
+    "theme_name": "Boilerplate",
     "theme_version": "1.0.0",
-    "theme_author": "",
-    "theme_documentation_url": "",
-    "theme_support_url": ""
+    "theme_author": "None",
+    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
+    "theme_support_url": "https://support.shopify.com/"
   }
 ]
