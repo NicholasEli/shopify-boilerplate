@@ -16,6 +16,11 @@
 </head>
 
 <body>
-  {{ content_for_layout }}
+  {% section 'header' %}
+  <main>
+    <div class="container">
+      {{ content_for_layout }}
+    </div>
+  </main>
 </body>
 </html>

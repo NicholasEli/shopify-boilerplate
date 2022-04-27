@@ -1,11 +1,9 @@
 {
   "sections": {
-  	"main": {
-  		"type": "main",
-  		"blocks": {}
-  	}
+    "header": {
+      "type": "header",
+      "settings": {}
+    }
   },
-  "order": [
-  	"main"
-  ]
+  "order": ["header"]
 }

@@ -1,11 +1,9 @@
 {
   "sections": {
-    "main": {
-      "type": "main",
+    "banner": {
+      "type": "banner",
       "settings": {}
     }
   },
-  "order": [
-    "main"
-  ]
+  "order": ["banner"]
 }
