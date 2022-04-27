@@ -1,8 +1,5 @@
 <main>
 	<h4>Sections / Main </h4>
-	<p>Page ID: {{ page.id }}</p>
-	<p>Page Handle: {{ page.handle }}</p>
-	<p>Page Template Suffix: {{ page.template_suffix }}</p>
 	{% for link in linklists.main-menu.links %}
   	<a href="{{ link.url }}">{{ link.title }}</a>
 	{% endfor %}
