@@ -20,3 +20,9 @@ _Sections_
 Sections are reusable modules of content that can be customized by merchants.
 
 _Snippets_
+
+### Styles
+
+With `node sass` installed globally run `npm run sass` to compile your styles. Main sass file is `_style.scss` which compiles to `style.css`. Any child stylesheets should be prefixed with `_`.
+
+Styles that associated with layout, templates, sections or snippets should be prefixed with `_layout`, `_template`, `_section`, `snippet`.
