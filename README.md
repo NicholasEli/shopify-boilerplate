@@ -12,3 +12,5 @@ Templates control what's rendered on each type of page in a theme.
 
 *Sections*
 Sections are reusable modules of content that can be customized by merchants.
+
+*Snippets*
