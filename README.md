@@ -7,11 +7,11 @@ Layouts -> Templates -> Sections
 _Layouts_
 Layouts are the base of the theme, through which all templates are rendered.
 
-    - In order to create custom pages you must first visit your online store.
-    	- Visit `{your-store}.myshopify.com/admin/pages/new` and create your new page
-    	- Visit `{your-store}.myshopify.com/admin/themes/{store-id}/editor` and select edit code from the dropdown
-    	- In the editor create your new section then the page
-    	- Visit `{your-store}.myshopify.com/admin/pages/{page-id}` and set the template
+- In order to create custom pages you must first visit your online store.
+  - Visit `{your-store}.myshopify.com/admin/pages/new` and create your new page
+  - Visit `{your-store}.myshopify.com/admin/themes/{store-id}/editor` and select edit code from the dropdown
+  - In the editor create your new section then the page
+  - Visit `{your-store}.myshopify.com/admin/pages/{page-id}` and set the template
 
 _Templates_
 Templates control what's rendered on each type of page in a theme.
