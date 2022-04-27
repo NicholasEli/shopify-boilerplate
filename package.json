@@ -4,7 +4,8 @@
   "description": "[![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=informational)](/.github/CONTRIBUTING.md)",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "sass": "sass --watch ./assets/_style.scss ./assets/style.css"
   },
   "repository": {
     "type": "git",
@@ -13,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "9.5.4",
+    "cypress": "9.5.4"
   },
   "dependencies": {
     "react": "^18.0.0",
