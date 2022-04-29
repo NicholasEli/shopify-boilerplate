@@ -171,6 +171,11 @@ header nav ul > li:hover ul {
   background-color: #fff;
 }
 
+footer {
+  width: 100%;
+  background-color: #111;
+}
+
 * {
   box-sizing: border-box;
 }
