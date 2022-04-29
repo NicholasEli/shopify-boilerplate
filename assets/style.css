@@ -146,6 +146,31 @@ table {
   max-width: 100%;
 }
 
+header nav ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+header nav ul > li {
+  position: relative;
+}
+header nav ul > li a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+  color: #000;
+}
+header nav ul > li ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+}
+header nav ul > li:hover ul {
+  display: block;
+  background-color: #fff;
+}
+
 * {
   box-sizing: border-box;
 }
